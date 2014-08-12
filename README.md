@@ -3,10 +3,12 @@ Kdtree
 
 Summary
 -------
-
+This program implements 2d-tree data type to represent a set of points in the unit square, which speeds up the range search method compared with a brute force algorithm (shown in PointSET.java).
 
 PointSET
 --------
+Use a regular binary search tree to store the point and support only brute force range search method. The API is shown below:
+
        public class PointSET {
           public PointSET()                               // construct an empty set of points
           public boolean isEmpty()                        // is the set empty?
@@ -20,4 +22,3 @@ PointSET
 
 KdTree
 ------
-
