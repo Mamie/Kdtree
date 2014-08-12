@@ -1,5 +1,6 @@
 Kdtree
 ======
+This is the week 5 assignment of [Coursera Algorithm, part I] (https://www.coursera.org/course/algs4partI) class.
 
 Summary
 -------
@@ -22,3 +23,7 @@ Use a regular binary search tree to store the point and support only brute force
 
 KdTree
 ------
+KdTree uses a red-black BST that inserts 2d points alternately based on their x and y corrdinate. This 2d-tree representation allows for effienct range search method. Its API is same as pointSET above.
+
+Details of the assignment requirements can be found [here]().
+
