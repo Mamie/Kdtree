@@ -25,5 +25,4 @@ KdTree
 ------
 KdTree uses a red-black BST that inserts 2d points alternately based on their x and y corrdinate. This 2d-tree representation allows for effienct range search method. Its API is same as pointSET above.
 
-Details of the assignment requirements can be found [here]().
-
+Details of the assignment requirements can be found [here](http://coursera.cs.princeton.edu/algs4/assignments/kdtree.html). The checklist can be found [here](http://coursera.cs.princeton.edu/algs4/checklists/kdtree.html).
